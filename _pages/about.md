@@ -12,4 +12,4 @@ I am an Associate Professor of Theoretical Physics at the University of Southern
 
 A central goal of my work is to build a unique research program that spans the full pipeline from relativistic theory through simulations to observational cosmology. I aim to develop the frameworks and tools needed to incorporate the effects of cosmic structure robustly into the interpretation of major surveys in the coming decades.
 
-I contribute to public outreach and science communication using various platforms: I write popular science books and frequently contribute to interviews, podcasts, radio, YouTube, and other public events.
+I contribute to public outreach and science communication using various platforms: I write popular science books and articles and frequently contribute to podcasts, radio, YouTube, and other public events.
