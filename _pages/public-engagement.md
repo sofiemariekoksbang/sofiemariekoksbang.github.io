@@ -24,5 +24,6 @@ permalink: /public-engagement/
  - <a href="https://www.dr.dk/lyd/special-radio/ubegribeligt/ubegribeligt-35">Interview about gravity</a>
  - <a href="https://www.dr.dk/lyd/special-radio/flyvende-tallerken/flyvende-tallerken-40">Interview for the podcast series Flying Saucer</a>
 
-
-
+Some popular science articles (Danish) I have written:
+- <a href="https://videnskab.dk/rummet/?p=305956">Article about dark matter</a>
+- Two-part article about my research with the first part <a href="https://videnskab.dk/rummet/?p=196868">here </a> and the second part <a href="[https://rumsnak.fireside.fm/121](https://videnskab.dk/rummet/?p=196915)">here.</a>
