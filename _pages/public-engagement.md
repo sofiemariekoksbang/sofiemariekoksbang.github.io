@@ -4,6 +4,8 @@ title: "Public Engagement"
 permalink: /public-engagement/
 ---
 
+<div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
+
 <hr>
 
 <h2>Public Engagement</h2>
@@ -61,3 +63,4 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
     </ul>
   </li>
 </ul>
+</div>
