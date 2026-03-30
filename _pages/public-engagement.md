@@ -32,7 +32,7 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
   </li>
 </ul>
 
-<h3>Selected Freely Available Interviews (Danish)</h3>
+<h3>Selected Interviews Freely Available Online (Danish)</h3>
 <ul>
   <li><a href="https://rumsnak.fireside.fm/121" target="_blank">Interview about dark matter for Rumsnak</a></li>
   <li><a href="https://radionauterne.dk/hvorfor-er-rummet-moerkt/" target="_blank">Children’s podcast Radionauterne: Why is space dark?</a></li>
@@ -47,7 +47,7 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
   <li><a href="https://www.dr.dk/lyd/special-radio/flyvende-tallerken/flyvende-tallerken-40" target="_blank">Interview for the podcast series Flying Saucer</a></li>
 </ul>
 
-<h3>Popular Science Articles (Danish)</h3>
+<h3>Popular Science Articles Freely Available Online (Danish)</h3>
 <ul>
   <li>
     <a href="https://videnskab.dk/rummet/?p=305956" target="_blank">
