@@ -235,7 +235,7 @@ collections:
     permalink: /:collection/:path/
   public_engagement:
     output: true
-    permalink: /public_engagement/:path/
+    permalink: /public-engagement/:path/
   Group:
     output: true
     permalink: /Group/:path/
