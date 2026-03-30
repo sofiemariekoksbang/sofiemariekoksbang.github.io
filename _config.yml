@@ -236,7 +236,9 @@ collections:
   public_engagement:
     output: true
     permalink: /public_engagement/:path/
-
+  Group:
+    output: true
+    permalink: /Group/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -294,6 +296,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _public-engagement
+  - scope:
+      path: ""
+      type: public-engagement
+    values:
+      layout: public-engagement
+      author_profile: true
+      share: true
+  # _Group
+  - scope:
+      path: ""
+      type: Group
+    values:
+      layout: Group
+      author_profile: true
+      share: true
+
+
 
 
 # Sass/SCSS
