@@ -36,7 +36,7 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
   <li><a href="https://rumsnak.fireside.fm/121" target="_blank">Interview about dark matter for Rumsnak</a></li>
   <li><a href="https://radionauterne.dk/hvorfor-er-rummet-moerkt/" target="_blank">Children’s podcast Radionauterne: Why is space dark?</a></li>
   <li><a href="https://klit.agency" target="_blank">Interview on the double slit experiment (KLIT artwork)</a></li>
-  <li><a href="https://www.youtube.com/channel/UCBvuyDi7CyaIavUKDXgTvJg" target="_blank">YouTube interview about my research</a></li>
+  <li><a href="https://www.youtube.com/watch?v=JQtqWJGOUkc" target="_blank">YouTube interview about my research</a></li>
   <li><a href="https://www.youtube.com/watch?v=7bWVKhEV_Ko" target="_blank">Big Bang YouTube piece</a></li>
   <li><a href="https://podcasters.spotify.com/pod/show/profundis/episodes/Tyngdekraft-m--Sofie-Marie-Koksbang-e2l5002" target="_blank">Podcast interview related to my book on gravity</a></li>
   <li><a href="https://podcasts.apple.com/dk/podcast/den-g%C3%A5defulde-tyngdekraft/id1490572243?i=1000630028997" target="_blank">Podcast interview about gravity</a></li>
