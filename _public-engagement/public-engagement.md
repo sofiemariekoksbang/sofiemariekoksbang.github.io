@@ -1,3 +1,9 @@
+--- 
+layout: 
+page title: "Public Engagement" 
+permalink: /public-engagement/
+---
+
 <hr>
 
 <h2>Public Engagement</h2>
