@@ -39,7 +39,6 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
   <li><a href="https://www.youtube.com/watch?v=JQtqWJGOUkc" target="_blank">YouTube interview about my research</a></li>
   <li><a href="https://www.youtube.com/watch?v=7bWVKhEV_Ko" target="_blank">Big Bang YouTube piece</a></li>
   <li><a href="https://podcasters.spotify.com/pod/show/profundis/episodes/Tyngdekraft-m--Sofie-Marie-Koksbang-e2l5002" target="_blank">Podcast interview related to my book on gravity</a></li>
-  <li><a href="https://podcasts.apple.com/dk/podcast/den-g%C3%A5defulde-tyngdekraft/id1490572243?i=1000630028997" target="_blank">Podcast interview about gravity</a></li>
   <li><a href="https://www.dr.dk/lyd/p1/fremtiden-pa-p1/fremtiden-pa-p1-fremtidens-univers" target="_blank">The future of the Universe</a></li>
   <li><a href="https://rumsnak.fireside.fm/69" target="_blank">Rumsnak interview about the Big Bang</a></li>
   <li><a href="https://www.dr.dk/lyd/special-radio/ubegribeligt/ubegribeligt-44" target="_blank">Interview about dark energy</a></li>
