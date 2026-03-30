@@ -3,6 +3,7 @@ layout: page
 title: "Group" 
 permalink: /Group/
 ---
+<div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
 
 <hr>
 
@@ -88,3 +89,5 @@ The goal is always learning, improvement, and maintaining a constructive researc
 <p>
 This codex is intended as a living document and may be revised based on feedback and experience.
 </p>
+
+</div>
