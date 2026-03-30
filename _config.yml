@@ -23,12 +23,12 @@ repository               : "sofiemariekoksbang/sofiemariekoksbang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "favicon-512x512.png"
+  avatar           : "profile3.png"
   name             : "Sofie Marie Koksbang"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Theoretical Physics"
   location         : "Earth"
-  employer         : "The University of Southern Denmark"
+  employer         : "University of Southern Denmark"
   uri              : # URL
   email            : "koksbang@cp3.sdu.dk" 
 
