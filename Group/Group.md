@@ -1,3 +1,9 @@
+--- 
+layout: page 
+title: "Group" 
+permalink: /Group/
+---
+
 <hr>
 
 <h2>Group Codex</h2>
