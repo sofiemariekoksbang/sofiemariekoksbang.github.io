@@ -26,4 +26,4 @@ permalink: /public-engagement/
 
 Some popular science articles (Danish) I have written:
 - <a href="https://videnskab.dk/rummet/?p=305956">Article about dark matter</a>
-- Two-part article about my research with the first part <a href="https://videnskab.dk/rummet/?p=196868">here </a> and the second part <a href="[https://rumsnak.fireside.fm/121](https://videnskab.dk/rummet/?p=196915)">here.</a>
+- Two-part article about my research with the first part <a href="https://videnskab.dk/rummet/?p=196868">here </a> and the second part <a href="https://videnskab.dk/rummet/?p=196915">here.</a>
