@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Public Engagement"
-permalink: /public_engagement/
+permalink: /public-engagement/
 ---
 
 
