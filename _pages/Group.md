@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Group"
-permalink: /group/
+permalink: /Group/
 ---
 
 I am group leader of the Inhomogeneous Cosmology group at The University of Southern Denmark. Our group codex is presented below.
