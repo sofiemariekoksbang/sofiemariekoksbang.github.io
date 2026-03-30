@@ -233,6 +233,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  public_engagement:
+    output: true
+    permalink: /public_engagement/:path/
+
 
 
 # These settings control how pages and collections are included in the site
