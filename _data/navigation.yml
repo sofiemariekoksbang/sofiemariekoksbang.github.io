@@ -10,6 +10,8 @@
 main:
   - title: "Public Engagement"
     url: /public-engagement/
+  - title: "Group"
+    url: /Group/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -22,9 +24,6 @@ main:
         
 #  - title: "Blog Posts"
 #   url: /year-archive/
-    
-  - title: "Group"
-    url: /Group/
     
   # - title: "CV"
   #   url: /cv-json/
