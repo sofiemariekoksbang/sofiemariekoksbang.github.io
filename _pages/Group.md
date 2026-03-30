@@ -41,7 +41,7 @@ The following behaviors can undermine a healthy research environment and should 
 
 
 5. Self-reflection
-6. 
+
 We encourage everyone --- including the group leader --- to regularly reflect on their own behavior and ask questions such as:
  - What did I do today to help create a positive and productive atmosphere?
  - Did I listen actively and allow others to finish speaking?
