@@ -10,7 +10,7 @@ permalink: /public-engagement/
 >
 > I have written a popular science book about <a href="https://unipress.dk/udgivelser/t/tyngdekraft/">gravity</a> and one entitled <a href="https://unipress.dk/udgivelser/u/universets-moerke-side//">The Dark Side of the Universe</a> (in Danish).
 
->Some recorded (Danish) interviews:
+>Some recorded (Danish) interviews that are freely available:
  - <a href="https://rumsnak.fireside.fm/121">Interviews about dark matter for Rumsnak</a>
  - <a href="https://radionauterne.dk/hvorfor-er-rummet-moerkt/">Interview for children's podcast Radionauterne about why space is dark</a>
  - <a href="https://klit.agency">Interview about the double slit experiment as part of the artwork KLIT</a>
@@ -24,6 +24,6 @@ permalink: /public-engagement/
  - <a href="https://www.dr.dk/lyd/special-radio/ubegribeligt/ubegribeligt-35">Interview about gravity</a>
  - <a href="https://www.dr.dk/lyd/special-radio/flyvende-tallerken/flyvende-tallerken-40">Interview for the podcast series Flying Saucer</a>
 
-Some popular science articles (Danish) I have written:
+Some popular science articles (Danish) that are freely available online:
 - <a href="https://videnskab.dk/rummet/?p=305956">Article about dark matter</a>
 - Two-part article about my research with the first part <a href="https://videnskab.dk/rummet/?p=196868">here </a> and the second part <a href="https://videnskab.dk/rummet/?p=196915">here.</a>
