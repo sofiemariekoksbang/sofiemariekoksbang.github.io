@@ -1,6 +1,6 @@
 --- 
-layout: 
-page title: "Public Engagement" 
+layout: page 
+title: "Public Engagement" 
 permalink: /public-engagement/
 ---
 
