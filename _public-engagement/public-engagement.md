@@ -11,7 +11,7 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
 </p>
 </blockquote>
 
-<h3>Books</h3>
+<h3>Books (in Danish)</h3>
 <ul>
   <li>
     Popular science book about 
@@ -20,7 +20,7 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
   <li>
     <a href="https://unipress.dk/udgivelser/u/universets-moerke-side//" target="_blank">
       The Dark Side of the Universe
-    </a> (in Danish)
+    </a>
   </li>
 </ul>
 
