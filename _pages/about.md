@@ -13,7 +13,7 @@ I am an Associate Professor of Theoretical Physics at the University of Southern
 A central goal of my work is to build a unique research program that spans the full pipeline from relativistic theory through simulations to observational cosmology. I aim to develop the frameworks and tools needed to incorporate the effects of cosmic structure robustly into the interpretation of major surveys in the coming decades.
 
 I contribute to public engagement and science communication using various platforms: I write popular science books and articles and frequently contribute to podcasts, radio, YouTube, and other public events. 
-<div style="font-style: italic; margin-top: 20px;">
+<div style="background-color: white; padding: 15px 20px; border-radius: 8px; margin-top: 20px;">
 <p>
 Not all my popular science talks are open events but may instead be aimed at specific groups such as students or teachers. Below is a list of recent and upcoming talks open to the public. Should any of these be in English, I will mark them as such.
 </p>
