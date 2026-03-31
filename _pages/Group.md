@@ -20,14 +20,6 @@ Our group codex is presented below.
 <p>
 Our research group is committed to maintaining a respectful, inclusive, and intellectually rigorous environment where everyone can contribute fully. Our group codex exists to support productive scientific discussion, mutual respect, and a positive working atmosphere for all members of the group.
 </p>
-<p>
-This codex exists to support:
-</p>
-<ul>
-  <li>Productive scientific discussion</li>
-  <li>Mutual respect</li>
-  <li>A positive working atmosphere for all members</li>
-</ul>
 
 <h3>2. Core Values</h3>
 <ul>
