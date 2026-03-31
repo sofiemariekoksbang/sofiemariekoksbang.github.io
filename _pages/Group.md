@@ -10,7 +10,7 @@ permalink: /Group/
 <h2>Group Codex</h2>
 
 <p>
-I am group leader of the Inhomogeneous Cosmology group at the University of Southern Denmark. 
+I lead the Inhomogeneous Cosmology group at the University of Southern Denmark. 
 Our group codex is presented below.
 </p>
 
