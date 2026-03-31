@@ -21,7 +21,7 @@ Our group codex is presented below.
 Our research group is committed to maintaining a respectful, inclusive, and intellectually rigorous environment where everyone can contribute fully. Our group codex exists to support productive scientific discussion, mutual respect, and a positive working atmosphere for all members of the group.
 </p>
 <p>
-This code of conduct exists to support:
+This codex exists to support:
 </p>
 <ul>
   <li>Productive scientific discussion</li>
