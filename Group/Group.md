@@ -7,7 +7,7 @@ permalink: /Group/
 
 <hr>
 
-<h2>Group Codex</h2>
+<h2>Group and Group Codex</h2>
 
 <p>
 I lead the Inhomogeneous Cosmology group at the University of Southern Denmark. The other group members are listed below (the list is currently under construction).
