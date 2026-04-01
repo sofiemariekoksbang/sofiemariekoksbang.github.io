@@ -7,12 +7,53 @@ permalink: /Group/
 
 <hr>
 
-<h2>Group Codex</h2>
+<h2>Group and Group Codex</h2>
 
 <p>
-I lead the Inhomogeneous Cosmology group at the University of Southern Denmark. 
-Our group codex is presented below.
+I lead the Inhomogeneous Cosmology group at the University of Southern Denmark. The other group members are listed below (the list is currently under construction).
 </p>
+
+<h2>Group Members</h2>
+<h3>PhD Students</h3>
+<table>
+  <tr>
+    <td style="width:1200px;">
+      <img src="/images/alex.png" alt="Alex" width="1200">
+    </td>
+    <td>
+      <strong>Alexander Oestreicher</strong><br>
+Alexander's research focuses on the large-scale structure of the Universe,
+combining analytical models and numerical simulations to explore the
+growth and dynamics of cosmic structures. He is particularly
+interested in the role of relativistic effects and understanding how
+the structures in the Universe modify our interpretation of
+observations compared to idealized homogeneous cosmologies. He has also
+investigated how modified theories of gravity influence the formation
+and evolution of structures on cosmological scales. More recently, his
+work has increasingly focused on real-time cosmology, exploring
+how the temporal evolution of cosmological observables can provide new
+insights into the dynamics of the Universe and open novel observational
+windows for fundamental physics. See his papers <a href="https://inspirehep.net/authors/2926143" target="_blank" rel="noopener">here</a> and his code repository <a href="https://github.com/oestreichera" target="_blank" rel="noopener">here</a>.
+    </td>
+  </tr>
+</table>
+
+<h3>BSc Students</h3>
+<ul>
+  <li>BSc Laurits T. Nielsen</li>
+</ul>
+
+
+
+<hr>
+
+<p>
+Our group is shaped not only by the people in it, but also by the principles we share. 
+To support a productive, respectful, and inclusive research environment, we follow a common set of guidelines outlined below in our
+Group Codex — our shared principles for collaboration and scientific discussion.
+</p>
+
+<hr>
 
 <hr>
 
@@ -81,4 +122,5 @@ The goal is always learning, improvement, and maintaining a constructive researc
 <p>
 This codex is intended as a living document and may be revised based on feedback and experience.
 </p>
+
 </div>
