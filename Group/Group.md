@@ -17,8 +17,8 @@ I lead the Inhomogeneous Cosmology group at the University of Southern Denmark. 
 <h3>PhD Students</h3>
 <table>
   <tr>
-    <td style="width:100px;">
-      <img src="/images/alex.png" alt="Alex" width="100">
+    <td style="width:200px;">
+      <img src="/images/alex.png" alt="Alex" width="200">
     </td>
     <td>
       <strong>Alexander Oestreicher</strong><br>
