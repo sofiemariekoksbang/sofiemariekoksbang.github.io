@@ -40,18 +40,20 @@ windows for fundamental physics. See his papers <a href="https://inspirehep.net/
 
 <h3>MSc Students</h3>
 <ul>
-  <li>Jonas B. Bendtsen</li>
+  <li>Jonas Broe Bendtsen</li>
+</ul>
+<ul>
+  <li>Lutfun Nesa Salma</li>
 </ul>
 
 <hr>
 
-
 <h3>BSc Students</h3>
 <ul>
-  <li>Laurits T. Nielsen</li>
+  <li> Laurits Tværmose Nielsen</li>
 </ul>
 <ul>
-  <li>Emma G. H. Jørgensen</li>
+  <li> Emma Gedsø Heuck Jørgensen</li>
 </ul>
 
 <hr>
