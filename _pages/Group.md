@@ -38,6 +38,14 @@ windows for fundamental physics. See his papers <a href="https://inspirehep.net/
   </tr>
 </table>
 
+<h3>MSc Students</h3>
+<ul>
+  <li>Jonas B. Bendtsen</li>
+</ul>
+
+<hr>
+
+
 <h3>BSc Students</h3>
 <ul>
   <li>Laurits T. Nielsen</li>
@@ -45,8 +53,6 @@ windows for fundamental physics. See his papers <a href="https://inspirehep.net/
 <ul>
   <li>Emma G. H. Jørgensen</li>
 </ul>
-
-
 
 <hr>
 
