@@ -42,6 +42,9 @@ windows for fundamental physics. See his papers <a href="https://inspirehep.net/
 <ul>
   <li>BSc Laurits T. Nielsen</li>
 </ul>
+<ul>
+  <li>BSc Emma G. H. Jørgensen</li>
+</ul>
 
 
 
