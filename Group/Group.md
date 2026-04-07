@@ -40,7 +40,10 @@ windows for fundamental physics. See his papers <a href="https://inspirehep.net/
 
 <h3>BSc Students</h3>
 <ul>
-  <li>BSc Laurits T. Nielsen</li>
+  <li> Laurits T. Nielsen</li>
+</ul>
+<ul>
+  <li> Emma G. H. Jørgensen</li>
 </ul>
 
 
