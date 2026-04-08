@@ -36,6 +36,15 @@ insights into the dynamics of the Universe and open novel observational
 windows for fundamental physics. See his papers <a href="https://inspirehep.net/authors/2926143" target="_blank" rel="noopener">here</a> and his code repository <a href="https://github.com/oestreichera" target="_blank" rel="noopener">here</a>.
     </td>
   </tr>
+    <tr>
+    <td style="width:200px;">
+      <img src="/images/annamalai.PNG" alt="Annamalai" width="200">
+    </td>
+    <td>
+      <strong>Annamalai P. Shanmugaraj</strong><br>
+Annamalai's main interests lie in gravity, numerical relativity, and scientific computing. As a PhD student in my group, his research focuses on beyond geometric effects in gravity, particularly high-fidelity simulations of light and gravitational wave propagation through curved spacetimes that model astrophysical environments, including dark matter structures. These simulations are crucial for current and next generation gravitational wave detectors to probe astrophysical structures like dark matter via wave-optics signatures imprinted on signals as they traverse complex gravitational fields. Annamalai also builds and maintains numerical tools that help physicists run large scale numerical relativity simulations in High Performance Computing (HPC) environments. See his papers <a href="https://inspirehep.net/authors/2911185" target="_blank" rel="noopener">here</a> and his code repository <a href="https://github.com/annamalai-ps" target="_blank" rel="noopener">here</a>.
+    </td>
+  </tr>
 </table>
 
 <h3>MSc Students</h3>
