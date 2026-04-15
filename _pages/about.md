@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an Associate Professor of Theoretical Physics at the University of Southern Denmark. My research lies in the filed of inhomogeneous cosmology, where I study how cosmic structures — from tiny particles to vast galaxy clusters — shape the evolution of the Universe and affect how we interpret astronomical observations. To do this, I develop and use advanced computer simulations and other numerical models to identify the observational signatures of inhomogeneities and assess their implications for present and future surveys.
+I am an Associate Professor of Theoretical Physics at the University of Southern Denmark. My research lies in the field of inhomogeneous cosmology, where I study how cosmic structures — from tiny particles to vast galaxy clusters — shape the evolution of the Universe and affect how we interpret astronomical observations. To do this, I develop and use advanced computer simulations and other numerical models to identify the observational signatures of inhomogeneities and assess their implications for present and future surveys.
 
 
 I contribute to public engagement and science communication using various platforms: I write popular science books and articles and frequently contribute to podcasts, radio, YouTube, and other public events. 
