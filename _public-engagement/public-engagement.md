@@ -53,6 +53,11 @@ Most of this work is in Danish, but you can find one of my rare recorded popular
       Article about dark matter
     </a>
   </li>
+      <li>
+    <a href="https://tidsskrift.dk/KVANT/article/view/167870" target="_blank">
+      Article about inhomogeneous cosmology
+    </a>, written together with Asta Heinesen
+  </li>
   <li>
     Two-part article about my research:
     <ul>
