@@ -20,14 +20,6 @@ Not all my popular science talks are open events but may instead be aimed at spe
   Upcoming/recent talks:
 <ul>
   <li>
-    A public talk based on my book The Dark Side of the Universe at the Planetarium in Copenhagen, Nov 25, 2026 – 
-    <a href="https://www.planetarium.dk/saerarrangementer/universets-moerke-side" target="_blank">more information</a>.
-  </li>
-  <li>
-    A public talk based on my book Gravity at the Planetarium in Copenhagen, Sep 22, 2026 – 
-    <a href="https://www.planetarium.dk/saerarrangementer/tyngdekraft-fra-faldende-aebler-til-big-bang" target="_blank">event page</a>.
-  </li>
-  <li>
     Popular science presentation of New Results in Cosmology for The People's University Svendborg (Danish: folkeuniversitetet), Sep 9, 2026
   </li>
   <li>
