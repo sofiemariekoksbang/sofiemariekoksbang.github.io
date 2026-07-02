@@ -20,7 +20,7 @@ Not all my popular science talks are open events but may instead be aimed at spe
   Upcoming/recent talks:
 <ul>
   <li>
-    Physics Club talk at the University of Southern Denmark with marcel Pawlowski Nov. 25, 2026 (not quite open to all, but to all high schools)
+    Physics Club talk at the University of Southern Denmark with Marcel Pawlowski Nov. 25, 2026 (not quite open to all, but to all high schools)
   </li>
   <li>
     Popular science presentation of New Results in Cosmology for The People's University Svendborg (Danish: folkeuniversitetet), Sep 9, 2026
