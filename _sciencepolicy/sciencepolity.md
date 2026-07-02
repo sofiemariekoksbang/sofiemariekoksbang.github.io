@@ -10,19 +10,6 @@ permalink: /sciencepolicy/
 <h2>Science Politics</h2>
 
 
---- 
-layout: page 
-title: "sciencepolicy" 
-permalink: /sciencepolicy/
----
-<div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
-
-<hr>
-
-<h2>Science Politics</h2>
-
-
-
 <blockquote>
 <p>
 I am member of the Danish Young Academy and its Sience Politics working group, The season 2026 I represent this working group in our concil. Through the Young Academy I regularly contribute to science politics through debate pieces and similar. I am also invited regular commentary writer for Altinget.dk.
