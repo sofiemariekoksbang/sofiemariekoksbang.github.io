@@ -40,7 +40,7 @@ I am member of the Danish Young Academy and its Science Politics working group, 
   </li>  
   
   <li>
-      Asking for more focus on science in the poltiical campagn up to the national elections in March 2026,
+      Asking for more focus on science in the political campagn up to the national elections in March 2026,
     <a href="https://www.altinget.dk/forskning/artikel/unge-forskere-et-land-der-lever-af-viden-kan-ikke-have-en-valgkamp-uden-forskningspolitik" target="_blank"> Published March 2026</a>
   </li>
    <li>
