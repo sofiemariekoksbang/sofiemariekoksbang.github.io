@@ -20,15 +20,13 @@ Not all my popular science talks are open events but may instead be aimed at spe
   Upcoming/recent talks:
 <ul>
   <li>
+    Physics Club talk at the University of Southern Denmark with marcel Pawlowski Nov. 25, 2026 (not quite open to all, but to all high schools)
+  </li>
+  <li>
     Popular science presentation of New Results in Cosmology for The People's University Svendborg (Danish: folkeuniversitetet), Sep 9, 2026
   </li>
   <li>
-    Relativity talk for The People's University Odense (Danish: folkeuniversitetet), April 15, 2026 – 
-    <a href="https://fuodense.dk/odense/program/natur-og-univers/vilde-teorier-2611-137" target="_blank">details</a>.
-  </li>
-  <li>
-    Relativity talk for The People's University Aarhus, April 13, 2026 – 
-    <a href="https://fuau.dk/aarhus/program/natur-og-univers/vilde-teorier-2611-142?area=Aarhus" target="_blank">details</a>.
+    Open Eclipse event at the University of Southern Denmark, August 2012, 2026
   </li>
 </ul>
 </em>
