@@ -239,6 +239,9 @@ collections:
   Group:
     output: true
     permalink: /Group/:path/
+   sciencepolicy:
+    output: true
+    permalink: /sciencepolicy/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -312,7 +315,14 @@ defaults:
       layout: Group
       author_profile: true
       share: true
-
+  # _sciencepolicy
+  - scope:
+      path: ""
+      type: sciencepolicy
+    values:
+      layout: sciencepolicy
+      author_profile: true
+      share: true
 
 
 
