@@ -239,7 +239,7 @@ collections:
   Group:
     output: true
     permalink: /Group/:path/
-   sciencepolicy:
+  sciencepolicy:
     output: true
     permalink: /sciencepolicy/:path/
 
