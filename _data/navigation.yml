@@ -12,6 +12,8 @@ main:
     url: /public-engagement/
   - title: "Group"
     url: /Group/
+  - title: "sciencepolicy"
+    url: /sciencepolicy/
 
 #  - title: "Talks"
 #    url: /talks/    
