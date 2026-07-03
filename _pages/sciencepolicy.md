@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: "sciencepolicy" 
+title: "Science Policy" 
 permalink: /sciencepolicy/
 ---
 <div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
