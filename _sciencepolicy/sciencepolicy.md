@@ -7,7 +7,7 @@ permalink: /sciencepolicy/
 
 <hr>
 
-<h2>Science Politics</h2>
+
 
 
 <blockquote>
