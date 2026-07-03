@@ -12,7 +12,7 @@ permalink: /sciencepolicy/
 
 <blockquote>
 <p>
-I am member of the Danish Young Academy and its Science Politics working group, The season 2026 I represent this working group in our council. Through the Young Academy I regularly contribute to the public debate on science policy through debate pieces and similar. I am also invited regular commentary writer for Altinget.dk.
+I am member of the Danish Young Academy and its Science Politics working group. During the 2026 season, I represent this working group in our council. Through the Young Academy I regularly contribute to the public debate on science policy through debate pieces and similar. I am also invited regular commentary writer for Altinget.dk.
 </p>
 </blockquote>
 
