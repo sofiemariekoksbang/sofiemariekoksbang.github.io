@@ -26,7 +26,7 @@ Not all my popular science talks are open events but may instead be aimed at spe
     Popular science presentation of New Results in Cosmology for The People's University Svendborg (Danish: folkeuniversitetet), Sep 9, 2026
   </li>
   <li>
-    Eclipse event at the University of Southern Denmark, August 2012, 2026
+    Eclipse event at the University of Southern Denmark, August 12, 2026
   </li>
 </ul>
 </em>
