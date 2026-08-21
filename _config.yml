@@ -242,6 +242,9 @@ collections:
   sciencepolicy:
     output: true
     permalink: /sciencepolicy/:path/
+  library:
+    output: true
+    permalink: /library/:path/
 
 
 # These settings control how pages and collections are included in the site
