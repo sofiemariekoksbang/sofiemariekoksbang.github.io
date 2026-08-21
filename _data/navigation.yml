@@ -14,6 +14,8 @@ main:
     url: /Group/
   - title: "Science Policy"
     url: /sciencepolicy/
+  - title: "library"
+    url: /library/
 
 #  - title: "Talks"
 #    url: /talks/    
