@@ -18,6 +18,10 @@ I am member of the Danish Young Academy and its Science Politics working group. 
 
 <h3>Personal Commentaries for Altinget.dk</h3>
 <ul>
+      <li>
+    Commentary where I explain why the Danish government's strategy of neglecting fundamental research and focusing mainly on "innovation" is a bad idea,  
+    <a href="https://www.altinget.dk/fonde/artikel/det-er-bekymrende-saa-lidt-grundforskning-fylder-i-regeringsgrundlaget" target="_blank"> Published August 2026</a>
+  </li>
   <li>
     Commenatry where I argue for a redistribution of the public funding for Danish universities,  
     <a href="https://www.altinget.dk/forskning/artikel/lige-adgang-til-uddannelse-kraever-at-det-ikke-kun-er-koebenhavns-universitet-der-kan-tilbyde-fag-som-fysik?toke=a5c8103424644e6b85a2f40d994029b4" target="_blank"> Published June 2026</a>
