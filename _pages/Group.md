@@ -16,6 +16,18 @@ I lead the Inhomogeneous Cosmology group at the University of Southern Denmark. 
 <h2>Group Members</h2>
 <h3>PhD Students</h3>
 <table>
+
+  <tr>
+    <td style="width:200px;">
+      <>
+    </td>
+    <td>
+      <strong>Esra Froukje Verspui</strong><br>
+More info coming soon.
+    </td>
+  </tr>
+
+  
   <tr>
     <td style="width:200px;">
       <img src="/images/alex.png" alt="Alex" width="200">
@@ -51,23 +63,28 @@ Annamalai's main interests lie in gravity, numerical relativity, and scientific 
 
 <h3>MSc Students</h3>
 <ul>
-  <li>Jonas Broe Bendtsen</li>
-</ul>
-<ul>
   <li>Lutfun Nesa Salma</li>
 </ul>
-
+<ul>
+  <li>Anton Duedahl</li>
+</ul>
 <hr>
 
-<h3>BSc Students</h3>
-<ul>
-  <li> Laurits Tværmose Nielsen</li>
-</ul>
+<h3>BSc Students and project students</h3>
 <ul>
   <li> Emma Gedsø Heuck Jørgensen</li>
 </ul>
-
 <hr>
+
+<h3>Past members (since 2026) </h3>
+<ul>
+  <li>Jonas Broe Bendtsen (master's thesis), now a PhD student in Oslo</li>
+</ul>
+<ul>
+  <li> Laurits Tværmose Nielsen (bachelor's thesis)</li>
+</ul>
+<hr>
+
 
 <p>
 Our group is shaped not only by the people in it, but also by the principles we share. 
