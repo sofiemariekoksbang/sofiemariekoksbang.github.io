@@ -20,14 +20,12 @@ Not all my popular science talks are open events but may instead be aimed at spe
   Upcoming/recent talks:
 <ul>
   <li>
+    "The same in all directions?" - A cosmology talk at BrorFelde Observatory in celebration of Tycho Brahe's birthday, Dec. 5, 2026 
+  </li>
+  <li>
     Physics Club talk at the University of Southern Denmark with Marcel Pawlowski Nov. 25, 2026 (not quite open to all, but to all high schools)
   </li>
-  <li>
-    Popular science presentation of New Results in Cosmology for The People's University Svendborg (Danish: folkeuniversitetet), Sep 9, 2026
-  </li>
-  <li>
-    Eclipse event at the University of Southern Denmark, August 12, 2026
-  </li>
+
 </ul>
 </em>
 </div>
